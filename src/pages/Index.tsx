@@ -1,5 +1,5 @@
 import { SplitSection } from "@/components/SplitSection";
-import agentLibraryImage from "@/assets/agent-library.png";
+import agentLibraryImage from "@/assets/agent-library-bg.jpg";
 import flowiseImage from "@/assets/flowise-bg.jpg";
 
 const Index = () => {
