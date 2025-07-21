@@ -7,11 +7,11 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       {/* Header with Logo */}
-      <header className="absolute top-0 right-0 z-30 p-6">
+      <header className="absolute top-0 left-0 z-30 p-6">
         <img 
           src={logo} 
           alt="Logo" 
-          className="h-12 w-12 object-contain filter drop-shadow-lg"
+          className="h-20 w-20 object-contain filter drop-shadow-lg"
         />
       </header>
 
