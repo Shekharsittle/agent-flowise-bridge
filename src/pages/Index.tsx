@@ -1,5 +1,4 @@
 import { SplitSection } from "@/components/SplitSection";
-import logo from "@/assets/logo.png";
 import agentLibraryImage from "@/assets/agent-library.png";
 import flowiseImage from "@/assets/flowise.png";
 
@@ -9,7 +8,7 @@ const Index = () => {
       {/* Header with Logo */}
       <header className="absolute top-0 left-0 z-30 p-6">
         <img 
-          src={logo} 
+          src="/lovable-uploads/42c5ce1b-be12-49f4-955e-f5bdbdc66211.png" 
           alt="Logo" 
           className="h-20 w-20 object-contain filter drop-shadow-lg"
         />
