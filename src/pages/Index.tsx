@@ -31,7 +31,7 @@ const Index = () => {
           title="Agent Library"
           description="Discover and deploy pre-built AI agents for various tasks. Accelerate your AI implementation journey."
           image={agentLibraryImage}
-          href="https://agents.com"
+          href="http://172.174.203.38:8130/"
           gradient="agent"
           className="order-1 lg:order-2"
         />
