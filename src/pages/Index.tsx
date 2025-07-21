@@ -21,7 +21,7 @@ const Index = () => {
           title="Flowise"
           description="Build and deploy powerful AI workflows with our visual node-based editor. Create complex automation with ease."
           image={flowiseImage}
-          href="https://flowise.com"
+          href="http://172.174.203.38:8128/"
           gradient="flowise"
           className="order-2 lg:order-1"
         />
