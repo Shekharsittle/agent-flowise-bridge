@@ -6,11 +6,11 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background">
       {/* Header with Logo */}
-      <header className="absolute top-0 left-0 z-30 p-6">
+      <header className="absolute top-0 left-0 z-30 p-8">
         <img 
           src="/lovable-uploads/42c5ce1b-be12-49f4-955e-f5bdbdc66211.png" 
-          alt="Logo" 
-          className="h-20 w-20 object-contain filter drop-shadow-lg"
+          alt="relAI Logo" 
+          className="h-32 w-auto object-contain filter drop-shadow-lg"
         />
       </header>
 
